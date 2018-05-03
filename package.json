@@ -2,10 +2,9 @@
   "name": "lefan-common-js",
   "version": "0.0.1",
   "author": {
-    "name": "linmadan",
-    "email": "772181827@qq.com"
+    "name": "lefan",
+    "email": "3293873722@qq.com"
   },
-  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive"
